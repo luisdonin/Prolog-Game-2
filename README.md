@@ -11,3 +11,5 @@ This is the second iteration of Duda &amp; the Chicken, this game was developed 
 - This will initialize the game.
 ## Game objectives
 The game takes place at Aunt Lurdes farm, she has lost her chicken and you, her nephew must return it.
+## Video Demo
+[Youtube](https://www.youtube.com/watch?v=B1NL3LixxSw).
